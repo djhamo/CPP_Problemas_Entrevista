@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tiago\Documents\Projetos\estudo-cpp\TDD\Soundex\build\CMakeFiles\8add047236c494ca42fcfa98063117d0\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6017B4EE-43AA-38A8-80F7-7DD9E965ADCB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

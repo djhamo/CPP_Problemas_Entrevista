@@ -1,0 +1,2 @@
+C:\Users\Tiago\Documents\Projetos\estudo-cpp\Entrevista\build\src\Debug\Primitive.pdb
+C:\Users\Tiago\Documents\Projetos\estudo-cpp\Entrevista\build\src\Primitive.dir\Debug\Primitive.pdb

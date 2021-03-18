@@ -1,0 +1,7 @@
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Entrevista/build/CMakeFiles/main.dir
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Entrevista/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Entrevista/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Entrevista/build/src/CMakeFiles/Array.dir
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Entrevista/build/src/CMakeFiles/Primitive.dir
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Entrevista/build/test/CMakeFiles/Array_test.dir
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Entrevista/build/test/CMakeFiles/Primitive_test.dir

@@ -1,0 +1,2 @@
+C:\Users\Tiago\Documents\Projetos\estudo-cpp\TDD\Soundex\build\example\sqlite3\Debug\sqlite3.pdb
+C:\Users\Tiago\Documents\Projetos\estudo-cpp\TDD\Soundex\build\example\sqlite3\sqlite3.dir\Debug\sqlite3.pdb

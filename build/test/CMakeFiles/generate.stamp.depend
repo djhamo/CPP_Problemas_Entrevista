@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CheckCSourceCompiles.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CheckIncludeFile.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/FindThreads.cmake
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/GoogleTest.cmake
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/Entrevista/test/CMakeLists.txt
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/vcpkg/installed/x64-windows/share/GTest/GTestConfig.cmake
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/vcpkg/installed/x64-windows/share/GTest/GTestConfigVersion.cmake
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/vcpkg/installed/x64-windows/share/GTest/GTestTargets-debug.cmake
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/vcpkg/installed/x64-windows/share/GTest/GTestTargets-release.cmake
+C:/Users/Tiago/Documents/Projetos/estudo-cpp/vcpkg/installed/x64-windows/share/GTest/GTestTargets.cmake

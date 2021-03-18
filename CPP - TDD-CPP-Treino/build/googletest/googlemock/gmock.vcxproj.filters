@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Tiago\Documents\Projetos\estudo-cpp\TDD\Soundex\googletest\googletest\src\gtest-all.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tiago\Documents\Projetos\estudo-cpp\TDD\Soundex\googletest\googlemock\src\gmock-all.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tiago\Documents\Projetos\estudo-cpp\TDD\Soundex\googletest\googlemock\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{06938F07-1D2A-3A3E-99F1-23B3EE2DDE8B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

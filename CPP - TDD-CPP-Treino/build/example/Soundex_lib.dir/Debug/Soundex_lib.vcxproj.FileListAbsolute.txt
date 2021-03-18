@@ -1,0 +1,2 @@
+C:\Users\Tiago\Documents\Projetos\estudo-cpp\TDD\Soundex\build\example\Debug\Soundex_lib.pdb
+C:\Users\Tiago\Documents\Projetos\estudo-cpp\TDD\Soundex\build\example\Soundex_lib.dir\Debug\Soundex_lib.pdb

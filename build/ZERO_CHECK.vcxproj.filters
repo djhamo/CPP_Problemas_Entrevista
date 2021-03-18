@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tiago\Documents\Projetos\estudo-cpp\Entrevista\build\CMakeFiles\4af50748b359237ebd22a49cfe9a256a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{89A751FD-2F98-3F2A-8AF7-73928033E1D0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

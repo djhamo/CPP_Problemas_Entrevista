@@ -1,0 +1,9 @@
+// .vscode/c_cpp_properties.json
+{
+    "configurations": [
+        {
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,10 @@
+^C:\USERS\TIAGO\DOCUMENTS\PROJETOS\ESTUDO-CPP\ENTREVISTA\BUILD\CMAKEFILES\4AF50748B359237EBD22A49CFE9A256A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Tiago/Documents/Projetos/estudo-cpp/Entrevista -BC:/Users/Tiago/Documents/Projetos/estudo-cpp/Entrevista/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Tiago/Documents/Projetos/estudo-cpp/Entrevista/build/LivroEntrevista.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
